@@ -11,4 +11,30 @@ Web app using next js 15 and hugging face api for pretrained image classificatio
 ## Demo
 
 <!-- -- to be added -->
-# image-classification-webapp
+
+## Setup Instructions
+
+1. Clone the repository:
+2. Install the dependencies
+    ```
+    npm install
+    ```
+3. Create .env folder in the root folder
+
+4. Add your access token of hugging face api in variable "NEXT_PUBLIC_HUGGING_FACE_API_ACCESS_TOKEN"
+
+5. Start the dev server
+
+    ```
+    npm run dev
+    ```
+
+6. Access the application at http://localhost:3000.
+
+## Technologies Used
+
+-   Next.js 15
+-   React
+-   Tailwind CSS
+-   TypeScript
+-   Hugging Face for image classification

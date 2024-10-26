@@ -17,22 +17,22 @@ https://github.com/user-attachments/assets/b68ef6cd-4182-4933-9b58-f04e331320e3
 ## Setup Instructions
 
 1. Clone the repository
-2. 
-3. Install the dependencies
+   
+2. Install the dependencies
     ```
     npm install
     ```
-4. Create .env folder in the root folder
+3. Create .env folder in the root folder
 
-5. Add your access token of hugging face api in variable "NEXT_PUBLIC_HUGGING_FACE_API_ACCESS_TOKEN"
+4. Add your access token of hugging face api in variable "NEXT_PUBLIC_HUGGING_FACE_API_ACCESS_TOKEN"
 
-6. Start the dev server
+5. Start the dev server
 
     ```
     npm run dev
     ```
 
-7. Access the application at http://localhost:3000.
+6. Access the application at http://localhost:3000.
 
 ## Technologies Used
 
